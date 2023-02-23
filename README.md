@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @lemonsouffle
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/easviridova
 
 <!---
